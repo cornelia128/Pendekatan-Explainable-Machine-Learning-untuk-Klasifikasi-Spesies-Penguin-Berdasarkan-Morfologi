@@ -84,7 +84,7 @@ Berdasarkan hasil evaluasi pada dataset Penguin Palmer, model menunjukkan tingka
 ## 3.6 Interpretasi Model
 Analisis fitur terpenting berdasarkan morfologi (Ciri Fisik) global menunjukkan pola kontribusi fitur. Pada morfologi global yang ditujukkan pada Gambar 3.13.
 
-<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Morfologi%20Global.png?raw=true" width=600 height=300>
+<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Morfologi%20Global.png?raw=true" width=500 height=300>
 
 Memperlihatkan bahwa Culmen Length (mm) menjadi fitur paling dominan dengan kontribusi rata-
 rata tertinggi mendekati 2,2, diikuti Flipper Length (mm) sekitar 1,0, Culmen Depth (mm)
@@ -99,11 +99,11 @@ ditunjukkan pada Gambar 4.43, tersedia formulir untuk memasukkan nilai parameter
 Hasil prediksi kemudian ditampilkan pada halaman yang sama dalam bentuk nama spesies, disertai interpretasi morfologi yang menjelaskan karakteristik fisik utama spesies tersebut serta gambar pendukung untuk memperjelas hasil klasifikasi, seperti yang ditunjukkan pada Gambar 4.44, Gambar 4.45, dan Gambar 4.46. Apabila ingin melakukan prediksi ulang, tombol “Reset” dapat digunakan 
 untuk mengosongkan formulir dan memasukkan data baru. 
 
-<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Adelie.png?raw=true" width=500 height=400>
+<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Adelie.png?raw=true" width=300 height=600>
 
-<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Chinstrap.png?raw=true" width=500 height=400>
+<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Chinstrap.png?raw=true" width=300 height=600>
 
-<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Gentoo.png?raw=true" width=500 height=400>
+<img src="https://github.com/cornelia128/Pendekatan-Explainable-Machine-Learning-untuk-Klasifikasi-Spesies-Penguin-Berdasarkan-Morfologi/blob/main/images/Gentoo.png?raw=true" width=300 height=600>
 
 Secara keseluruhan, implementasi model dalam bentuk aplikasi web menunjukkan bahwa sistem dapat berfungsi dengan baik, responsif terhadap input pengguna, serta memudahkan proses klasifikasi spesies penguin secara praktis dan efisien. 
 
