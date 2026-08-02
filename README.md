@@ -87,7 +87,7 @@ Berdasarkan hasil penelitian yang telah dilakukan, dapat disimpulkan bahwa kiner
 ## Daftar Pustaka
 [A. Hua and G. Goldsztein, “Using Machine Learning to Predict Penguin Species,” J.Stud. Res., vol. 11, no. 4, Nov. 2022, doi: 10.47611/jsrhs.v11i4.3243](https://doi.org/10.47611/jsrhs.v11i4.3243)
 
-A. Pawar, “Data Analysis Using Statistical Methods: Case Study of Categorizing the Species of Penguin”.
+A. Pawar, “Data Analysis Using Statistical Methods: Case Study of Categorizing the Species of Penguin”(https://www.researchgate.net/publication/361755492_Data_Analysis_Using_Statistical_Methods_Case_Study_of_Categorizing_the_Species_of_Penguin)
 
 [M. Zhu, J. Lai, X. Zhang, Y. Xu, and W. He, “An Explainable CatBoost Model for Crater Classification Based on Digital Elevation Model,” Remote Sens., vol. 17, no. 7, p. 1236, Mar. 2025, doi: 10.3390/rs17071236](https://doi.org/10.3390/rs17071236)
 
