@@ -8,7 +8,7 @@ Sumber Kode: [Python - Project](https://colab.research.google.com/drive/1gbB-GAF
 Data penguin di Kepulauan Palmer mencerminkan variasi biologis antarspesies yang kompleks dan
 sering digunakan dalam penelitian ilmiah. Namun, penelitian terdahulu umumnya hanya berfokus pada
 peningkatan akurasi model tanpa menjelaskan faktor-faktor yang memengaruhi hasil klasifikasi. Penelitian ini menerapkan algoritma Catboost Classifier dengan konfigurasi parameter default dan hasil hyperparameter tuning. Tahapan penelitian mencakup eksplorasi, preprocessing data, pemodelan,
-evaluasi kinerja, serta interpretasi model menggunakan pendekatan Explainable Machine Learning berbasis SHAP. Model hasil tuning mencapai akurasi 99%. Analisis SHAP mengungkap bahwa fitur morfologi berkontribusi berbeda dalam membedakan spesies. Penelitian ini menghasilkan model yang akurat sekaligus interpretatif, sehingga bermanfaat untuk identifikasi spesies serta mendukung kajian keanekaragaman hayati dan konservasi.
+evaluasi kinerja, serta interpretasi model menggunakan pendekatan Explainable Machine Learning berbasis SHAP. Model hasil tuning mencapai akurasi 99%. Analisis SHAP mengungkap bahwa fitur morfologi berkontribusi secara berbeda dalam membedakan spesies. Penelitian ini menghasilkan model yang akurat sekaligus interpretatif, sehingga bermanfaat untuk identifikasi spesies serta mendukung kajian keanekaragaman hayati dan konservasi.
 
 ## 1. Pendahuluan
 Perkembangan machine learning telah memberikan kontribusi besar dalam berbagai bidang ilmiah, termasuk dalam upaya memahami keanekaragaman hayati, salah satunya melalui klasifikasi spesies
