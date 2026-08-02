@@ -113,9 +113,9 @@ model Catboost Classifier, yaitu model dengan parameter default dan model hasil 
 tuning, menunjukkan performa yang sangat baik dalam melakukan klasifikasi spesies penguin dengan model mencapai tingkat akurasi sebesar 99%. Hasil ini menunjukkan bahwa algoritma Catboost Classifier mampu menangkap pola klasifikasi dengan baik pada dataset berukuran kecil dan penerapan hyperparameter tuning dapat memberikan kontribusi dalam meningkatkan konsistensi performa model, serta penerapan Explainable Machine Learning berbasis SHAP berhasil memberikan interpretasi yang jelas terhadap pengaruh fitur morfologi dalam proses klasifikasi spesies penguin. Hal ini membuktikan bahwa penerapan SHAP mampu mengungkap kontribusi masing-masing fitur morfologi secara kuantitatif dan spesifik untuk setiap spesies, sehingga model Catboost yang digunakan tidak hanya bersifat akurat, tetapi juga dapat diinterpretasikan secara ilmiah.
 
 ## Daftar Pustaka
-[A. Hua and G. Goldsztein, “Using Machine Learning to Predict Penguin Species,” J. Stud. Res., vol. 11, no. 4, Nov. 2022, doi: 10.47611/jsrhs.v11i4.3243 (https://doi.org/10.47611/jsrhs.v11i4.3243)
+[A. Hua and G. Goldsztein, “Using Machine Learning to Predict Penguin Species,” J. Stud. Res., vol. 11, no. 4, Nov. 2022, doi: 10.47611/jsrhs.v11i4.3243] (https://doi.org/10.47611/jsrhs.v11i4.3243)
 
-A. Pawar, “Data Analysis Using Statistical Methods: Case Study of Categorizing the Species of Penguin”
+A. Pawar, “Data Analysis Using Statistical Methods: Case Study of Categorizing the Species of Penguin”.
 
 [M. Zhu, J. Lai, X. Zhang, Y. Xu, and W. He, “An Explainable CatBoost Model for Crater Classification Based on Digital Elevation Model,” Remote Sens., vol. 17, no. 7, p. 1236, Mar. 2025, doi: 10.3390/rs17071236](https://doi.org/10.3390/rs17071236)
 
